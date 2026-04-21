@@ -1,5 +1,5 @@
 # ProcessVigil.ps1  v1.0.0
-# https://github.com/YOUR_USERNAME/ProcessVigil
+# https://github.com/ACCorbett/ProcessVigil
 #
 # Draws colored security-context overlays on Windows:
 #   Red    — SYSTEM context
